@@ -1,6 +1,7 @@
 You can read more at [ASP.NET Core 1.0 High Performance] (https://www.packtpub.com/application-development/aspnet-core-10-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781785881893)
 
-Instructions
+##Instructions
+
 Chapter 1, 4, 7, and 10 does not cotain any code files.
 
 The Test images for conversions between the JPG and PNG format are included in chapter 3 
