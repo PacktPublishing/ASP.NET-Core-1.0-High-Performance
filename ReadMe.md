@@ -4,7 +4,7 @@ You can read more at [ASP.NET Core 1.0 High Performance] (https://www.packtpub.c
 
 Chapter 1, 4, 7, and 10 does not cotain any code files.
 
-The Test images for conversions between the JPG and PNG format are included in chapter 3 
+The Test images for conversions between the JPG and PNG format are included in chapter 3 folder
 
 The installation of Visual Studio 2015 on Windows 8.1 or Windows Server 2012 R2 fails when you do not install the update KB 2919355 Windows RT 8.1, Windows 8.1, and Windows Server 2012 R2 update: April 2014. 
 
