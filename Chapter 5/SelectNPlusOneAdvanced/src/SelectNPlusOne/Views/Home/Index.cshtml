@@ -1,0 +1,23 @@
+﻿@model IEnumerable<SelectNPlusOne.Models.BlogPost>
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th># Comments</th>
+    </tr>
+    @foreach (var post in Model)
+    {
+        <tr>
+            <td>@post.Title</td>
+            <td>@post.CommentCount</td>
+        </tr>
+    }
+</table>
+<form action="~/Home/InsertPost" method="post">
+    <input type="submit" value="Insert one post" />
+</form>
+<form action="~/Home/InsertTwoPosts" method="post">
+    <input type="submit" value="Insert two posts" />
+</form>
+<form action="~/Home/InsertThreePosts" method="post">
+    <input type="submit" value="Insert three posts" />
+</form>

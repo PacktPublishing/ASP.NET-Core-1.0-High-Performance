@@ -1,0 +1,14 @@
+﻿@model IEnumerable<SelectNPlusOne.Models.BlogPost>
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th># Comments</th>
+    </tr>
+    @foreach (var post in Model)
+    {
+        <tr>
+            <td>@post.Title</td>
+            <td>@post.CommentCount</td>
+        </tr>
+    }
+</table>
