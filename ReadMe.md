@@ -1,4 +1,4 @@
-You can read more at https://www.packtpub.com/application-development/aspnet-core-10-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781785881893
+You can read more at [ASP.NET Core 1.0 High Performance] (https://www.packtpub.com/application-development/aspnet-core-10-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781785881893)
 
 Instructions
 Chapter 1, 4, 7, and 10 does not cotain any code files.
@@ -11,6 +11,6 @@ You can verify that KB2919355 is installed on your computer by going to Control 
 If you cannot find the KB2919355 update installed on your computer, you can check through Windows Update. 
 
 Related ASP.NET books and videos
-https://www.packtpub.com/web-development/aspnet-site-performance-secrets?utm_source=github&utm_medium=repository&utm_campaign=9781849690683
-https://www.packtpub.com/application-development/introduction-aspnet-mvc-6-video?utm_source=github&utm_medium=repository&utm_campaign=9781785286834
+Introduction to ASP.NET MVC 6 [Video] (https://www.packtpub.com/application-development/introduction-aspnet-mvc-6-video?utm_source=github&utm_medium=repository&utm_campaign=9781785286834)
+RESTful Services with ASP.NET Web API [Video](https://www.packtpub.com/web-development/restful-services-aspnet-web-api-video?utm_source=github&utm_medium=repository&utm_campaign=9781783285754)
 
