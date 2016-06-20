@@ -11,9 +11,16 @@ You can verify that KB2919355 is installed on your computer by going to Control 
 If you cannot find the KB2919355 update installed on your computer, you can check through Windows Update. 
 
 Related ASP.NET books and videos
+
+[ASP.NET Web API Security Essentials [book]]
+(https://www.packtpub.com/web-development/aspnet-web-api-security-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781785882210)
+
+
 [Introduction to ASP.NET MVC 6 [Video]] (https://www.packtpub.com/application-development/introduction-aspnet-mvc-6-video?utm_source=github&utm_medium=repository&utm_campaign=9781785286834)
 
 
 [RESTful Services with ASP.NET Web API [Video]]
 (https://www.packtpub.com/web-development/restful-services-aspnet-web-api-video?utm_source=github&utm_medium=repository&utm_campaign=9781783285754)
+
+
 
